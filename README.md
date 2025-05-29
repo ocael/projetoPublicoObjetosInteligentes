@@ -1,4 +1,4 @@
-# 💧 Projeto IoT – Monitoramento de Nível de Água com MQTT (1 Tanque)
+# **Aparelho de medição de água**
 
 Este repositório implementa um sistema de **monitoramento de nível de água em um único tanque**, utilizando um ESP32, sensor ultrassônico HC-SR04, válvula, bomba e display LCD I2C. A comunicação ocorre via protocolo MQTT, e há visualização local via LCD, com possibilidade de integração futura com um dashboard (ex: Node-RED).
 
