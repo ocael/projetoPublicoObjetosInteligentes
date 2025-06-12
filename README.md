@@ -1,4 +1,4 @@
-# **Leitor Automático de Água**
+# **Medidor de Água com Leitura Remota**
 
 Este repositório implementa um sistema de **monitoramento de nível de água em um único tanque**, utilizando um ESP32, sensor ultrassônico HC-SR04, válvula, bomba e display LCD I2C. A comunicação ocorre via protocolo MQTT, e há visualização local via LCD, com possibilidade de integração futura com um dashboard (ex: Node-RED).
 
